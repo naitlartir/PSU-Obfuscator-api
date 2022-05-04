@@ -1,3 +1,4 @@
+
 # PSU-Obfuscator-api
 Prefix is `?` <br /> 
 All what you need is to change discord token in `config.json` to your discord token. <br /> 
